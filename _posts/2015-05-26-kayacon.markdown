@@ -1,0 +1,24 @@
+---
+title: "Kaya Construction (Family Business)"
+layout: post
+date: 2015-05-26 22:10
+tag: project
+img: indigo/indigo.png
+projects: true
+description: "A simple responsive website for my uncle's construction company in Turkey"
+jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+---
+
+![Kaya Construction]({{ site.url }}/assets/images/kayaconst.png)
+
+A simple responsive website for my uncle's construction company in Turkey - [Website](http://www.knnkayaogluinsaat.com/){:target="_blank"}.
+
+It is a single page website with details on what they do, previous projects and contact information.
+
+---
+
+Technologies used?
+
+- HTML / CSS
+- Bootstrap
+- Google's Map API
